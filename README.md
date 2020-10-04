@@ -1,5 +1,7 @@
 <h3 align="center">Hi I'm Trevor</h3>
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **locke.trevor@gmail.com**
@@ -7,7 +9,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/devlockedown" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="devlockedown" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/trevor locke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="trevor locke" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/trevor-locke-713883101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="trevor-locke-713883101" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
